@@ -24,7 +24,7 @@ Exemplo:
 archwiki -p V2Ray
 ```
 
-Visualizar e salvar a página no diretório atual
+#### Visualizar e salvar a página no diretório atual
 ```sh
 archwiki -s [SEARCH]
 ```
